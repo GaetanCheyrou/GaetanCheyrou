@@ -4,15 +4,14 @@
 ---
 
 ### 💻 Work At
-<img align="center" alt="Cantou" src="https://github.com/GaetanCheyrou/GaetanCheyrou/blob/main/assets/AgenceCantouLogoSiteInternet.png" width="212" height="65" />
 
-[![Cantou](https://img.shields.io/badge/Cantou-%230077B5.svg?&style=for-the-badge&logo=Cantou&logoColor=white)](https://www.agencecantou.fr/)
+Web Developer at : [![Cantou](https://github.com/GaetanCheyrou/GaetanCheyrou/blob/main/assets/AgenceCantouLogoSiteInternet.png)](https://www.agencecantou.fr/)
 
 ---
 
 ### 👨🏻‍💻 About Me
 
-- 🌱 I am currently studying at [O'clock][https://oclock.io/].
+- 🌱 I am currently studying at [O'clock](https://oclock.io/).
 - 💬 I am a former automation technician who converted to web development.
 
 ---
