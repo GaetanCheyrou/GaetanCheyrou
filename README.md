@@ -44,7 +44,7 @@
 
 
 <p align="center"> 
-      <img align="center" alt="GIF" src="https://github.com/manojuppala/manojuppala/blob/master/assets/code.gif?raw=true" width="750" height="520" />
+      <img align="center" alt="Vscode" src="https://github.com/GaetanCheyrou/GaetanCheyrou/blob/main/assets/VSCODE.png" width="750" height="520" />
 </p>
 
 [github]: https://github.com/GaetanCheyrou
@@ -55,7 +55,7 @@
 [github]: https://github.com/
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS#:~:text=Cascading%20Style%20Sheets%20(CSS)%20is,speech%2C%20or%20on%20other%20media.
 [html]: https://devdocs.io/html/
-[cantou]: https://github.com/GaetanCheyrou/GaetanCheyrou/master/assets/logocantou.png
+[cantou]: https://github.com/GaetanCheyrou/GaetanCheyrou/blob/main/assets/logocantou.png
 
 -----
 
