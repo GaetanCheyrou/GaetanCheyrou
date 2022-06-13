@@ -32,6 +32,13 @@
 ![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=WordPress)&nbsp;
 
 ---
+### Github Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GaetanCheyrou&theme=dark&show_icons=true&count_private=true&hide_title=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaetanCheyrou&layout=default&theme=dark&hide=html&hide_border=true&card_width=330)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GaetanCheyrou&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+---
 ### 📝Contact me on
 [![Gmail](https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white)](gaetancheyrou@gmail.com)
 
