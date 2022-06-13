@@ -4,8 +4,9 @@
 ---
 
 ### 💻 Work At
+<img align="center" alt="Cantou" src="https://github.com/GaetanCheyrou/GaetanCheyrou/blob/main/assets/AgenceCantouLogoSiteInternet.png" width="212" height="65" />
 
-[cantou][![Cantou](https://img.shields.io/badge/Cantou-%230077B5.svg?&style=for-the-badge&logo=Cantou&logoColor=white)](https://www.agencecantou.fr/)
+[![Cantou](https://img.shields.io/badge/Cantou-%230077B5.svg?&style=for-the-badge&logo=Cantou&logoColor=white)](https://www.agencecantou.fr/)
 
 ---
 
