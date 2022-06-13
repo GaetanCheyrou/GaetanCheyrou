@@ -5,8 +5,7 @@
 
 ### 💻 Work At
 
-[![Cantou](https://img.shields.io/badge/Cantou-%230077B5.svg?&style=for-the-badge&logo=Cantou&logoColor=white)](https://www.agencecantou.fr/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Horlcad?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/user?screen_name=Horlcad)
+[cantou][![Cantou](https://img.shields.io/badge/Cantou-%230077B5.svg?&style=for-the-badge&logo=Cantou&logoColor=white)](https://www.agencecantou.fr/)
 
 ---
 
