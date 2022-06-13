@@ -32,7 +32,7 @@
 ![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=WordPress)&nbsp;
 
 ---
-### Github Stats
+### 📊Github Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GaetanCheyrou&theme=dark&show_icons=true&count_private=true&hide_title=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaetanCheyrou&layout=default&theme=dark&hide=html&hide_border=true&card_width=330)
