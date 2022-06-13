@@ -3,9 +3,9 @@
 
 ---
 
-### 💻 Work At
+### 💻 Web Developer at 
 
-Web Developer at : [![Cantou](https://github.com/GaetanCheyrou/GaetanCheyrou/blob/main/assets/AgenceCantouLogoSiteInternet.png)](https://www.agencecantou.fr/)
+[![Cantou](https://github.com/GaetanCheyrou/GaetanCheyrou/blob/main/assets/AgenceCantouLogoSiteInternet.png)](https://www.agencecantou.fr/)
 
 ---
 
