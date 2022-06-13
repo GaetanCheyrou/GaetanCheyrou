@@ -1,16 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gaetan Cheyrou.</h1>
 <h3 align="center">A passionate developer from France.</h3>
 <p>
-    - 🔭 I am currently working in the Web Agency
-  <a href="https://agencecantou.fr/">"Cantou"</a> located in Aveyron.<br />
-
+  - 🔭 I am currently working in the Web Agency <a href="https://agencecantou.fr/">"Cantou"</a> located in Aveyron.<br />
   - 🌱 I am currently studying at O'clock. <br />
-  - 👨‍💻 All of my projects are available
-  : being created. <br />
-
-  - 💬 About me : I am a former automation technician who converted to web
-  development. <br />
-
+  - 👨‍💻 All of my projects are available: being created. <br />
+  - 💬 About me : I am a former automation technician who converted to web development. <br />
   - 📫 How to reach me: gaetancheyrou@gmail.com. <br />
 </p>
 
@@ -115,17 +109,4 @@
 </p>
 
 
-<!--
-**GaetanCheyrou/GaetanCheyrou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
