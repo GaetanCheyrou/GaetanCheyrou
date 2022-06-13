@@ -55,7 +55,6 @@ Web Developer at : [![Cantou](https://github.com/GaetanCheyrou/GaetanCheyrou/blo
 [github]: https://github.com/
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS#:~:text=Cascading%20Style%20Sheets%20(CSS)%20is,speech%2C%20or%20on%20other%20media.
 [html]: https://devdocs.io/html/
-[cantou]: https://github.com/GaetanCheyrou/GaetanCheyrou/blob/main/assets/logocantou.png
 
 -----
 
