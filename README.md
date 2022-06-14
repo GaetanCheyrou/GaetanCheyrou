@@ -40,7 +40,7 @@
 
 ---
 ### 📝Contact me on
-[![Gmail](https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white)](gaetancheyrou@gmail.com)
+[![Gmail](https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaetancheyrou@gmail.com)
 
 ---
 
