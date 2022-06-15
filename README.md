@@ -1,4 +1,4 @@
-<h2 align="center"> ## Hi there, I'm Gaëtan Cheyrou 👋</h2>
+<h2 align="center">Hi there, I'm Gaëtan Cheyrou 👋</h2>
 <h3 align="center">Student at O'Clock, promo: Griffon .</h3>
 
 ---
@@ -35,7 +35,7 @@
 ### 📊Github Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GaetanCheyrou&theme=dark&show_icons=true&count_private=true&hide_title=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaetanCheyrou&layout=default&theme=dark&hide=html&hide_border=true&card_width=330)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaetanCheyrou&theme=dark&layout=compact&hide_border=true)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GaetanCheyrou&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 ---
